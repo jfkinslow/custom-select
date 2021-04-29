@@ -1,0 +1,23 @@
+{
+  "name": "custom-select",
+  "version": "1.0.0",
+  "description": "This is a custom select box I have built for reuse in future projects",
+  "main": "select.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfkinslow/custom-select.git"
+  },
+  "keywords": [
+    "custom",
+    "select"
+  ],
+  "author": "Joshua Kinslow [joshua.kinslow@joshuakinslow.me]",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfkinslow/custom-select/issues"
+  },
+  "homepage": "https://github.com/jfkinslow/custom-select#readme"
+}
